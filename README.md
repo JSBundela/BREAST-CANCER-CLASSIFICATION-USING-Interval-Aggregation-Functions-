@@ -1,5 +1,5 @@
-# BREAST-CANCER-CLASSIFICATION-USING-Interval-Aggregation-Functions-
-Developing Prediction Intervals for Artificial Neural Networks Using Interval Aggregation Functions 
+#Developing Prediction Intervals for Artificial Neural Networks Using Interval Aggregation Functions  
+BREAST-CANCER-CLASSIFICATION-USING-Interval-Aggregation-Functions-
 
 • Improve the reliability of deep neural networks in classification tasks by integrating uncertainty through prediction intervals, using
 interval aggregation functions to capture and reflect prediction uncertainties.
